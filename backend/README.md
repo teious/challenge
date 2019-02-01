@@ -40,8 +40,6 @@ __Apresentação__
   - Explicação da solução (em arquivo separado em Markdown/Plain Text)
 
 __Avaliação__
-
 Para nos enviar seu código, você pode:
-
- - Fazer um fork desse repositório, e nos mandar uma pull-request.
- - Dar acesso ao seu repositório privado no [Gitlab](http://gitlab.com) para `creditaschallenge`.
+- Dar acesso ao seu repositório *privado* no [GitHub](http://github.com) para `???`.
+- Enviar um `git bundle` do seu repositório para o e-mail `challenge@creditas.com.br`.

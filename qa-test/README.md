@@ -65,8 +65,6 @@ Crie um teste que cria um post através da API. Valide que o post foi criado atr
 * **Explicação da solução de automação dos testes (em arquivo separado em Markdown/Plain Text)**
 
 # Avaliação
-
 Para nos enviar seu código, você pode:
-
-* Fazer um fork desse repositório, e nos mandar uma pull-request.
-* Dar acesso ao seu repositório privado no GitHub ou GitLab para `creditaschallenge`.
+- Dar acesso ao seu repositório *privado* no [GitHub](http://github.com) para `???`.
+- Enviar um `git bundle` do seu repositório para o e-mail `challenge@creditas.com.br`.

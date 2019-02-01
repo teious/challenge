@@ -40,8 +40,6 @@ __Presentation__
   - Explanation of the solution (in separate file in Markdown / Plain Text)
 
 __Evaluation__
-
 To send us your code, you can:
-
- - Make a fork of this repository, and send us a pull-request.
- - Give access to your private repository in gitlab to `creditaschallenge`.
+- Give access to your *private* repository on [GitHub](http://github.com) to `???`.
+- Enviar um `git bundle` do seu repositório para o e-mail `challenge@creditas.com.br`.
